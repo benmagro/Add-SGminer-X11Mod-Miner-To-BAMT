@@ -1,14 +1,16 @@
-Add-Blake-Miner-To-BAMT
+Add-SGminer-X11Mod-Miner-To-BAMT
 ========================
 
 This is script will install an optimised x11 algorithm miner within BAMT 1.6.0
 
 #Minable Coins
 
-- CryptoMETH (METH)
-- Maxcoin (MAX)
-- 365coin (365)
-
+- Darkcoin (DRK)
+- X11Coin (XC)
+- Logicoin (LGC)
+- Hirocoin (HIC)
+- MUNITI (MUN)
+- Sync (SYNC)
 
 #Instructions
 
