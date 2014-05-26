@@ -31,7 +31,7 @@ patch /opt/bamt/common.pl <<.
 >         \$miner = "sgminer-x11";
 .
 cd /etc/bamt/
-patch /etc/bamt/blake.conf <<.
+patch /etc/bamt/sgminer-x11mod.conf <<.
 19a20,23
 > "api-listen": true,
 > "api-port": "4028",
