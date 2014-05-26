@@ -20,6 +20,8 @@ cd Add-SGminer-X11Mod-Miner-To-BAMT/
 ./x11.sh
 ```
 
+Then review your bamt.conf and you sgminer-x11mod.conf
+
 ##Donate
 
 BTC: 1GeA7ZeKV5yH68EkMQCLb2ygm9K4qotT2x
