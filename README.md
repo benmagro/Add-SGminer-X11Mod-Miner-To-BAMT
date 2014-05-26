@@ -19,3 +19,7 @@ git clone https://github.com/benmagro/Add-SGminer-X11Mod-Miner-To-BAMT.git
 cd Add-SGminer-X11Mod-Miner-To-BAMT/
 ./x11.sh
 ```
+
+##Donate
+
+BTC: 1GeA7ZeKV5yH68EkMQCLb2ygm9K4qotT2x
