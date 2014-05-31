@@ -4,6 +4,7 @@ sleep 5
 cd /opt/miners/
 git clone https://github.com/lasybear/sph-sgminer_x11mod.git sgminer-x11mod
 cd /opt/miners/sgminer-x11mod
+cp /opt/miners/sgminer-4.1.0-sph/ADL_SDK/* /opt/miners/sgminer-x11mod/ADL_SDK/
 make clean
 sleep 5
 chmod +x autogen.sh
