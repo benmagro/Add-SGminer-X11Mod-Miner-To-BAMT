@@ -33,7 +33,15 @@ patch /opt/bamt/common.pl <<.
 .
 cd /etc/bamt/
 patch /etc/bamt/sgminer-x11mod.conf <<.
-19a20,23
+22c22
+< "kernel" : "ckolivas,ckolivas,ckolivas",
+---
+> "kernel" : "x11mod",
+37,39c37,39
+< "api-listen" : false,
+< "api-mcast-port" : "4028",
+< "api-port" : "4028",
+---
 > "api-listen": true,
 > "api-port": "4028",
 > "api-allow": "W:127.0.0.1",
