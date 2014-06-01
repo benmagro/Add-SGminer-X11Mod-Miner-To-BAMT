@@ -1,4 +1,6 @@
 #!/bin/sh
+mine stop
+sleep 5
 cp common.unpatch.diff /tmp/
 cd /opt/miners/
 rm -rf sgminer-x11mod
