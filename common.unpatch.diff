@@ -1,0 +1,4 @@
+1478,1480d1477
+<       } elsif (${$conf}{'settings'}{'miner-sgminer-x11mod'}) {
+<         $cmd = "cd /opt/miners/sgminer-x11mod/;/usr/bin/screen -d -m -S sgminer-x11 /opt/miners/sgminer-x11mod/sgminer $args";
+<         $miner = "sgminer-x11";
